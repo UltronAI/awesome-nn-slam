@@ -29,6 +29,8 @@ Topics & Quick jump:
 ## SLAM System
 - CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
 
+[Back to top](#awesome-nn-slam)
+
 ## Unsupervised Structure-from-Motion
 - Unsupervised Learning of Depth and Ego-Motion from Video
 - Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
@@ -37,6 +39,8 @@ Topics & Quick jump:
 - Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
 - Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
 - Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+
+[Back to top](#awesome-nn-slam)
 
 ## Depth Estimation
 - Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge
@@ -59,6 +63,8 @@ Topics & Quick jump:
 - End-to-End Learning of Geometry and Context for Deep Stereo Regression
 - Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
 
+[Back to top](#awesome-nn-slam)
+
 ## Visual Odometry
 - PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization
 - DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
@@ -71,18 +77,30 @@ Topics & Quick jump:
 - End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks
 - Deep Auxiliary Learning for Visual Localization and Odometry
 
+[Back to top](#awesome-nn-slam)
+
 ## Visual-Inertial Odometry
 - VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
 - Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online Error Correction
 - Selective Sensor Fusion for Neural Visual-Inertial Odometry 
 
+[Back to top](#awesome-nn-slam)
+
 ## Feature Extraction
 - SuperPoint: Self-Supervised Interest Point Detection and Description
 - SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning
 
+[Back to top](#awesome-nn-slam)
+
 ## Place Recognition (Loop Detection)
 - NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
 
+[Back to top](#awesome-nn-slam)
+
 ## Mapping and Map Compression
 
+[Back to top](#awesome-nn-slam)
+
 ## Optimization
+
+[Back to top](#awesome-nn-slam)
