@@ -4,7 +4,7 @@
 
 **If you find something wrong or want to add something new, don't hesitate to make an issue or a PR.**
 
-This repo is used to record neural network algorithms, either about a complete SLAM system, or part of it. 
+This repo is used to record algorithms constructed by neural networks, either about a complete SLAM system, or part of it. 
 
 For each paper, we should answer the following questions:
 - What **problems** does it solve?
@@ -27,73 +27,101 @@ Topics & Quick jump:
   - [Optimization](#optimization)
 
 ## SLAM System
-- CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
+### 2017
+- **[CVPR 2017]** CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
+  <!-- - Keisuke Tateno(TU Munich & Canon), Federico Tombari(TU Munich), Iro laina(TU Munich), Nassir Navab(TU Munich & JHU) -->
 
 [Back to top](#awesome-nn-slam)
 
 ## Unsupervised Structure-from-Motion
-- Unsupervised Learning of Depth and Ego-Motion from Video
-- Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
-- DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
-- Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
-- Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
-- Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
-- Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+### 2019
+- **[NeurISP 2019]** Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+- **[ICCV 2019]** Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
+- ****[CVPR 2019]**** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
+- **[AAAI 2019]** Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+### 2018
+- **[ECCV 2018]** DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
+- **[CVPR 2018]** Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
+### 2017
+- **[CVPR 2017]** Unsupervised Learning of Depth and Ego-Motion from Video 
 
 [Back to top](#awesome-nn-slam)
 
 ## Depth Estimation
-- Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge
-- Deep Ordinal Regression Network for Monocular Depth Estimation
-- Learning Depth from Monocular Videos using Direct Methods
-- Learning Monocular Depth by Distilling Cross-domain Stereo Networks
-- Unsupervised Monocular Depth Estimation with Left-Right Consistency
-- CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth
-- Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue
-- Attention-based Context Aggregation Network for Monocular Depth Estimation
-- Depth Map Prediction from a Single Image Using a Multi-scale Deep Network
-- Veritatem Dies Aperit- Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
-- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
-- Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
-- Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
-- Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
-- On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach
-- Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation
-- Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
-- End-to-End Learning of Geometry and Context for Deep Stereo Regression
-- Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
+### 2019
+- **[CVPR 2019]** Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge
+- **[CVPR 2019]** CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth
+- **[CVPR 2019]** Veritatem Dies Aperit-Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
+- **[CVPR 2019]** Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving
+- **[CVPR 2019]** Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
+- **[CVPR 2019]** Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
+- **[CVPR 2019]** Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation
+- **[CVPR 2019]** Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
+- **[CoRR 2019]** Attention-based Context Aggregation Network for Monocular Depth Estimation
+
+### 2018
+- **[CVPR 2018]** Deep Ordinal Regression Network for Monocular Depth Estimation
+- **[CVPR 2018]** Learning Depth from Monocular Videos using Direct Methods
+- **[CVPR 2018]** Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
+- **[CVPR 2018 Workshop]** On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach
+- **[ECCV 2018]** Learning Monocular Depth by Distilling Cross-domain Stereo Networks
+- **[ECCV 2018]** Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
+
+### 2017
+- **[ICCV 2017]** End-to-End Learning of Geometry and Context for Deep Stereo Regression
+- **[CVPR 2017]** Unsupervised Monocular Depth Estimation with Left-Right Consistency
+
+### 2016 and before
+- **[ECCV 2016]** Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue
+- **[NeurIPS 2014]** Depth Map Prediction from a Single Image Using a Multi-scale Deep Network
 
 [Back to top](#awesome-nn-slam)
 
 ## Visual Odometry
-- PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization
-- DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
-- UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
-- MagicVO: End-to-End Monocular Visual Odometry through Deep Bi-directional Recurrent Convolutional Neural Network
-- Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning
-- Understanding the Limitations of CNN-based Absolute Camera Pose Regression
-- Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry
-- Geometric Consistency for Self-Supervised End-to-End Visual Odometry
-- End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks
-- Deep Auxiliary Learning for Visual Localization and Odometry
+### 2019
+- **[CVPR 2019]** MagicVO: End-to-End Monocular Visual Odometry through Deep Bi-directional Recurrent Convolutional Neural Network
+- **[CVPR 2019]** Understanding the Limitations of CNN-based Absolute Camera Pose Regression
+- **[CVPR 2019]** Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry
+- **[ICRA 2019]** Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning
+
+### 2018
+- **[ICRA 2018]** Deep Auxiliary Learning for Visual Localization and Odometry
+- **[ICRA 2018]** UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
+- **[CVPR 2018 Workshop]** Geometric Consistency for Self-Supervised End-to-End Visual Odometry
+- **[IJRR 2018]** End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks
+
+### 2017
+- **[ICRA 2017]** DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
+
+### 2016 and before
+- **[ICCV 2015]** PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization
 
 [Back to top](#awesome-nn-slam)
 
 ## Visual-Inertial Odometry
-- VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
-- Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online Error Correction
-- Selective Sensor Fusion for Neural Visual-Inertial Odometry 
+### 2019
+- **[CVPR 2019]** Selective Sensor Fusion for Neural Visual-Inertial Odometry 
+
+### 2018
+- **[IROS 2018]** Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online 
+
+### 2017
+- **[AAAI 2017]** VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning ProblemError Correction
 
 [Back to top](#awesome-nn-slam)
 
 ## Feature Extraction
-- SuperPoint: Self-Supervised Interest Point Detection and Description
-- SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning
+### 2019
+- **[3DV 2019]** SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning
+
+### 2018
+- **[CVPR 2018 Workshop]** SuperPoint: Self-Supervised Interest Point Detection and Description
 
 [Back to top](#awesome-nn-slam)
 
 ## Place Recognition (Loop Detection)
-- NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
+### 2016 and before
+- **[CVPR 2016]** NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
 
 [Back to top](#awesome-nn-slam)
 
