@@ -17,7 +17,7 @@ In addition, some related resources, such as hyperlinks to open-source codes and
 
 Topics & Quick jump: 
   - [SLAM System](#slam-system)
-  - [Unsupervised Structure-from-Motion](#unsupervised-structure-from-motion)
+  - [Self-supervised Structure-from-Motion](#self-supervised-structure-from-motion)
   - [Depth Estimation](#depth-estimation)
   - [Visual Odometry](#visual-odometry)
   - [Visual-Inertial Odometry](#visual-inertial-odometry)
