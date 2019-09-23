@@ -37,7 +37,6 @@ Topics & Quick jump:
 
 ## Self-supervised Structure-from-Motion
 ### 2019
-- **[Arxiv 2019]** Flow-Motion and Depth Network for Monocular Stereo and Beyond
 - **[IROS 2019]** Learning Residual Flow as Dynamic Motion from Stereo Videos
 - **[NeurIPS 2019]** Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
 - **[ICCV 2019]** Self-Supervised Monocular Depth Hints
@@ -47,6 +46,7 @@ Topics & Quick jump:
 - **[CVPR 2019]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
 - **[CVPR 2019]** UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos
 - **[AAAI 2019]** Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+- **[Arxiv 2019]** Flow-Motion and Depth Network for Monocular Stereo and Beyond
 ### 2018
 - **[ECCV 2018]** DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 - **[CVPR 2018]** Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction
@@ -71,7 +71,7 @@ Topics & Quick jump:
 - **[CVPR 2019]** Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference
 - **[CVPR 2019]** Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation
 - **[CVPR 2019]** Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
-- **[CoRR 2019]** Attention-based Context Aggregation Network for Monocular Depth Estimation
+- **[Arxiv 2019]** Attention-based Context Aggregation Network for Monocular Depth Estimation
 
 ### 2018
 
