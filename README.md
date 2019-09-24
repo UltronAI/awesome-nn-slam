@@ -72,23 +72,18 @@ Topics & Quick jump:
 - **[CVPR 2019]** Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation
 - **[CVPR 2019]** Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera
 - **[Arxiv 2019]** Attention-based Context Aggregation Network for Monocular Depth Estimation
-
 ### 2018
-
 - **[ICRA 2018]** Just-in-Time Reconstruction: Inpainting Sparse Maps Using Single View Depth Predictors as Priors
 - **[CVPR 2018]** Learning for Disparity Estimation through Feature Constancy
-
 - **[CVPR 2018]** Deep Ordinal Regression Network for Monocular Depth Estimation
 - **[CVPR 2018]** Learning Depth from Monocular Videos using Direct Methods
 - **[CVPR 2018]** Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation
 - **[CVPR 2018 Workshop]** On the Importance of Stereo for Accurate Depth Estimation: An Efficient Semi-Supervised Deep Neural Network Approach
 - **[ECCV 2018]** Learning Monocular Depth by Distilling Cross-domain Stereo Networks
 - **[ECCV 2018]** Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss
-
 ### 2017
 - **[ICCV 2017]** End-to-End Learning of Geometry and Context for Deep Stereo Regression
 - **[CVPR 2017]** Unsupervised Monocular Depth Estimation with Left-Right Consistency
-
 ### 2016 and before
 - **[ECCV 2016]** Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue
 - **[NeurIPS 2014]** Depth Map Prediction from a Single Image Using a Multi-scale Deep Network
@@ -101,13 +96,11 @@ Topics & Quick jump:
 - **[CVPR 2019]** Understanding the Limitations of CNN-based Absolute Camera Pose Regression
 - **[CVPR 2019]** Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry
 - **[ICRA 2019]** Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning
-
 ### 2018
 - **[ICRA 2018]** Deep Auxiliary Learning for Visual Localization and Odometry
 - **[ICRA 2018]** UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
 - **[CVPR 2018 Workshop]** Geometric Consistency for Self-Supervised End-to-End Visual Odometry
 - **[IJRR 2018]** End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks
-
 ### 2017
 - **[ICRA 2017]** DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
 - **[IROS 2017]** Deep regression for monocular camera-based 6-DoF global localization in outdoor environments
@@ -117,10 +110,8 @@ Topics & Quick jump:
 ## Visual-Inertial Odometry
 ### 2019
 - **[CVPR 2019]** Selective Sensor Fusion for Neural Visual-Inertial Odometry 
-
 ### 2018
 - **[IROS 2018]** Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep Network with Online 
-
 ### 2017
 - **[AAAI 2017]** VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning ProblemError Correction
 
@@ -129,7 +120,6 @@ Topics & Quick jump:
 ## Feature Representation
 ### 2019
 - **[3DV 2019]** SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning
-
 ### 2018
 - **[CVPR 2018 Workshop]** SuperPoint: Self-Supervised Interest Point Detection and Description
 
@@ -140,13 +130,9 @@ Topics & Quick jump:
 - **[Arxiv 2019]** AtLoc: Attention Guided Camera Localization
 - **[Arxiv 2019]** Hierarchical Joint Scene Coordinate Classification and Regression for Visual Localization
 ### 2018
-
 - **[ICRA 2018]** Deep Auxiliary Learning for Visual Localization and Odometry
-
 ### 2017
-
 - **[IROS 2017]** Deep regression for monocular camera-based 6-DoF global localization in outdoor environments
-
 ### 2016 and before
 - **[ICCV 2015]** PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization
 
