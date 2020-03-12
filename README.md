@@ -1,17 +1,11 @@
 # Awesome-NN-SLAM
 
-**:running::running::running:Under initial construction.**
+**:running::running::running: TODO: **
+	Add a description of the highlights for each paper and attach an open source link if it exists.
 
 **If you find something wrong or want to add something new, don't hesitate to make an issue or a PR.**
 
 This repo is used to record algorithms constructed by neural networks, either about a complete SLAM system, or part of it. 
-
-For each paper, we should answer the following questions:
-- What **problems** does it solve?
-- What **methods** does it propose?
-- How are the **results**?
-- What **challenges** or **deficiencies** does it face?
-- **Where** is it published? **Who** are the authors?
 
 In addition, some related resources, such as hyperlinks to open-source codes and PDF files, are also welcome.
 
@@ -37,15 +31,25 @@ Topics & Quick jump:
 
 ## Self-supervised Structure-from-Motion
 ### 2019
-- **[IROS 2019]** Learning Residual Flow as Dynamic Motion from Stereo Videos
-- **[NeurIPS 2019]** Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
 - **[ICCV 2019]** Self-Supervised Monocular Depth Hints
 - **[ICCV 2019]** Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras
+- **[ICCV 2019]** Exploiting temporal consistency for real-time video depth estimation
+- **[ICCV 2019]** Digging Into Self-Supervised Monocular Depth Estimation
+- **[ICCV 2019]** Unsupervised High-Resolution Depth Learning From Videos With Dual Networks
+- **[ICCV 2019]** SynDeMo: Synergistic Deep Feature Alignment for Joint Learning of Depth and Ego-Motion
+- **[ICCV 2019]** Enforcing geometric constraints of virtual normal for depth prediction
+- **[ICCV 2019]** Self-supervised Learning with Geometric Constraints in Monocular Video Connecting Flow, Depth, and Camera
+- **[ICCV 2019]** Moving Indoor: Unsupervised Video Depth Learning in Challenging Environments
+- **[ICCV 2019]** Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry
+- **[CoRL 2019]** Two Stream Networks for Self-Supervised Ego-Motion Estimation
+- **[IROS 2019]** Learning Residual Flow as Dynamic Motion from Stereo Videos
+- **[NeurIPS 2019]** Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
 - **[ICRA 2019]** Unsupervised Learning of Monocular Depth and Ego-Motion Using Multiple Masks
 - **[ICRA 2019]** GANVO - Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks
 - **[CVPR 2019]** Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
 - **[CVPR 2019]** UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by Watching Videos
 - **[AAAI 2019]** Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+- **[3DV 2019]** Structured Coupled Generative Adversarial Networks for Unsupervised Monocular Depth Estimation
 - **[Arxiv 2019]** Flow-Motion and Depth Network for Monocular Stereo and Beyond
 ### 2018
 - **[ECCV 2018]** DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
@@ -59,8 +63,11 @@ Topics & Quick jump:
 
 ## Depth Estimation
 ### 2019
+- **[ICCV 2019]** How do neural networks see depth in single images?
+- **[ICCV 2019]** Visualization of Convolutional Neural Networks for Monocular Depth Estimation
+- **[ICCV 2019]** Enforcing geometric constraints of virtual normal for depth prediction
 - **[TPAMI 2019]** Progressive Fusion for Unsupervised Binocular Depth Estimation using Cycled Networks
-- **[ICCV 2019]** Digging into self-supervised monocular depth estimation
+- **[CVPR 2019]** Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More
 - **[CVPR 2019]** Learning Monocular Depth Estimation Infusing Traditional Stereo Knowledge
 - **[CVPR 2019]** CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth
 - **[CVPR 2019]** Veritatem Dies Aperit-Temporally Consistent Depth Prediction Enabled by a Multi-Task Geometric and Semantic Scene Understanding Approach
@@ -91,6 +98,8 @@ Topics & Quick jump:
 [Back to top](#awesome-nn-slam)
 
 ## Visual Odometry
+### 2020
+- **[ICRA 2020]** Visual Odometry Revisited: What Should Be Learnt?
 ### 2019
 - **[CVPR 2019]** MagicVO: End-to-End Monocular Visual Odometry through Deep Bi-directional Recurrent Convolutional Neural Network
 - **[CVPR 2019]** Understanding the Limitations of CNN-based Absolute Camera Pose Regression
@@ -125,7 +134,7 @@ Topics & Quick jump:
 
 [Back to top](#awesome-nn-slam)
 
-## Camera Location
+## Camera Localization
 ### 2019
 - **[Arxiv 2019]** AtLoc: Attention Guided Camera Localization
 - **[Arxiv 2019]** Hierarchical Joint Scene Coordinate Classification and Regression for Visual Localization
@@ -149,5 +158,6 @@ Topics & Quick jump:
 [Back to top](#awesome-nn-slam)
 
 ## Optimization
-
+### 2019
+- **[ICRA 2019]** Pose Graph Optimization for Unsupervised Monocular Visual Odometry
 [Back to top](#awesome-nn-slam)
